@@ -1,0 +1,33 @@
+ body{
+background-color: #000000;
+font-family: Arial, Helvetica, sans-serif;
+        
+}
+#main-container{
+    margin: 150px auto;
+    width: 600px;
+    background-color: #000000;
+       margin-top: 50px;
+    
+          
+ }
+table{
+    background-color:#000000;
+    text-align: center;
+    width: 100%;
+} 
+ tr,td{
+ border: solid 1px black;
+padding: 2%;
+background-color: rgb(252, 255, 62);
+border-radius: 10px;
+border-bottom: blue;
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+ text-align: center
+}
+section{
+  margin-left: 35%;
+  
+
+}
